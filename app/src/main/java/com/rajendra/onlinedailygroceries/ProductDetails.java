@@ -27,6 +27,7 @@ public class ProductDetails extends AppCompatActivity implements PaymentResultLi
     String name, price, desc, qty, unit;
     int image, price1, final_price;
     //first
+    //second
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
